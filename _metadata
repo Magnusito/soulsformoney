@@ -1,0 +1,9 @@
+{
+  "author" : "Magnus",
+  "description" : "This mod modifies pixes and voxels to be Souls instead.\n\nQ: Why do you do another mod just for this?\nA: Because this mod modifies vanilla assets and I don't want the main mod to modify anything from vanilla.",
+  "friendlyName" : "Dark Souls Mod (Souls as Currency)",
+  "link" : "steam://url/CommunityFilePage/743896735",
+  "name" : "Dark Souls Mod (Souls as Currency)",
+  "steamContentId" : "743896735",
+  "version" : "Stable 1.0"
+}
