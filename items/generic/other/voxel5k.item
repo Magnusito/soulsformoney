@@ -1,0 +1,9 @@
+{
+  "itemName" : "voxel5k",
+  "price" : 5000,
+  "rarity" : "Common",
+  "category" : "currency",
+  "inventoryIcon" : "voxel5k.png",
+  "description" : "Gives 5,000 souls when consumed.",
+  "shortdescription" : "Soul of a Brave Warrior"
+}

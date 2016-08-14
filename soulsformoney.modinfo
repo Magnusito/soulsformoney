@@ -1,0 +1,11 @@
+{
+	"name" : "Souls",
+	"version" : "Stable 1.0",
+	"metadata" : {
+	"displayName" : "Souls",
+	"author" : "Magnus",
+	"description" : "Changes pixels to Souls",
+	"support_url" : "",
+	"version" : "1.0"
+	}
+}

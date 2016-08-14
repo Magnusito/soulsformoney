@@ -1,0 +1,9 @@
+{
+  "itemName" : "voxel2k",
+  "price" : 2000,
+  "rarity" : "Common",
+  "category" : "currency",
+  "inventoryIcon" : "voxel2k.png",
+  "description" : "Gives 2,000 souls when consumed.",
+  "shortdescription" : "Soul of a Proud Knight"
+}

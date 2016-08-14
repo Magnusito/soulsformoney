@@ -1,0 +1,9 @@
+{
+  "itemName" : "voxel10k",
+  "price" : 10000,
+  "rarity" : "Common",
+  "category" : "currency",
+  "inventoryIcon" : "voxel10k.png",
+  "description" : "Gives 10,000 souls when consumed.",
+  "shortdescription" : "Soul of a Hero"
+}

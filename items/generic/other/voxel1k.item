@@ -1,0 +1,9 @@
+{
+  "itemName" : "voxel1k",
+  "price" : 1000,
+  "rarity" : "Common",
+  "category" : "currency",
+  "inventoryIcon" : "voxel1k.png",
+  "description" : "Gives 1,000 souls when consumed.",
+  "shortdescription" : "Large Soul of a Nameless Soldier"
+}
